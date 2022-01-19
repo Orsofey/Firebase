@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827242725342",
+    "project_id": "farebase-cbe90",
+    "storage_bucket": "farebase-cbe90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827242725342:android:9486f5892dff2fcc51e74f",
+        "android_client_info": {
+          "package_name": "com.example.farebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827242725342-q2o59ls8r2th5bol3tn2a0rkdechuutt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwWpZrl_d9vbrIMZDEF4MHzBQf3-P9VTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827242725342-q2o59ls8r2th5bol3tn2a0rkdechuutt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

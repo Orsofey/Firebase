@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>827242725342-bvkoek9g1k3o9pktedu2olgrbd9nqkng.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.827242725342-bvkoek9g1k3o9pktedu2olgrbd9nqkng</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAspm4U3ORAJNdrFlCiXbuy1jzEOhtbgM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>827242725342</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.farebase</string>
+	<key>PROJECT_ID</key>
+	<string>farebase-cbe90</string>
+	<key>STORAGE_BUCKET</key>
+	<string>farebase-cbe90.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:827242725342:ios:508554dcf54d5ddc51e74f</string>
+</dict>
+</plist>
